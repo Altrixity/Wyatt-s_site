@@ -1,0 +1,10 @@
+body {
+  background-color:darkblue;
+  color:white;
+  text-align:center;
+}
+header {
+  background-color:lightblue;
+  text-align:center;
+  border-radius:20px;
+}
